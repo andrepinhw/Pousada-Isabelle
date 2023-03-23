@@ -93,7 +93,7 @@ nav{
 }
 
 #display{
-    background-image: url(/assets/images/slide.jpg);
+    background-image: url("./assets/images/slide.jpg");
     height: calc(100vh - 133px);
     display: flex;
     justify-content: center;
@@ -187,7 +187,7 @@ fieldset{
 
 .img-bedrooms{
     height: calc(100vh - 210px);
-    background-image: url(/assets/images/vamo.jpg);
+    background-image: url("./assets/images/vamo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px 10px 0px 0px;
